@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -11,13 +14,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="642c93c6-0f8f-4257-a321-988d53c575ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.generators" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.rakeTasks" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/App.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/App.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/development.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GeneratorOptions">
+    <option name="VCS_SHOW_CONFIRMATION" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,6 +53,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager" selected="Rails.Development: App">
@@ -150,7 +170,8 @@
       <option name="presentableId" value="Default" />
       <updated>1601392922899</updated>
       <workItem from="1601392924243" duration="8000" />
-      <workItem from="1601392946476" duration="648000" />
+      <workItem from="1601392946476" duration="2582000" />
+      <workItem from="1601395663434" duration="298000" />
     </task>
     <servers />
   </component>
@@ -167,46 +188,76 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1601393037316">
+    <state x="555" y="312" key="#Other_File_Types" timestamp="1601394936321">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601393037316" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1601393037315">
+    <state x="555" y="312" key="#Other_File_Types/0.0.1440.900@0.0.1440.900" timestamp="1601394936321" />
+    <state x="404" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601395037042">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601393037315" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1601393037314">
+    <state x="404" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1601395037042" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom" timestamp="1601395960275">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601393037314" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1601393037315">
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601395960275" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center" timestamp="1601395960274">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601393037315" />
-    <state width="1398" height="245" key="GridCell.Tab.1.bottom" timestamp="1601393037317">
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601395960274" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left" timestamp="1601395960273">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601393037317" />
-    <state width="1398" height="245" key="GridCell.Tab.1.center" timestamp="1601393037316">
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601395960273" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right" timestamp="1601395960274">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1601393037316" />
-    <state width="1398" height="245" key="GridCell.Tab.1.left" timestamp="1601393037316">
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601395960274" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1601395960278">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1601393037316" />
-    <state width="1398" height="245" key="GridCell.Tab.1.right" timestamp="1601393037317">
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601395960278" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1601395960277">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1601393037317" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1601395960277" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1601395960276">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1601395960276" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1601395960277">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1601395960277" />
+    <state width="1398" height="304" key="GridCell.Tab.2.bottom" timestamp="1601395960280">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601395960280" />
+    <state width="1398" height="304" key="GridCell.Tab.2.center" timestamp="1601395960279">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1601395960279" />
+    <state width="1398" height="304" key="GridCell.Tab.2.left" timestamp="1601395960278">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1601395960278" />
+    <state width="1398" height="304" key="GridCell.Tab.2.right" timestamp="1601395960280">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1601395960280" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1601393189919">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1601393189919" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1601395862200">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1601395862200" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1601394773515" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/App@Development__App.rcov" NAME="Development: App Coverage Results" MODIFIED="1601392978463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="App" />
+    <SUITE FILE_PATH="coverage/App@Development__App.rcov" NAME="Development: App Coverage Results" MODIFIED="1601395900627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="App" />
   </component>
 </project>
