@@ -13,23 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="642c93c6-0f8f-4257-a321-988d53c575ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.generators" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20200929155610_devise_create_users.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20201006150254_change_users_to_user.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.rakeTasks" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/App.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/App.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/development.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/initializers/devise.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/initializers/devise.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-    </list>
+    <list default="true" id="642c93c6-0f8f-4257-a321-988d53c575ef" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -176,6 +160,7 @@
       <workItem from="1601392924243" duration="8000" />
       <workItem from="1601392946476" duration="648000" />
       <workItem from="1606405785889" duration="622000" />
+      <workItem from="1606406668445" duration="371000" />
     </task>
     <servers />
   </component>
