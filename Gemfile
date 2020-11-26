@@ -33,12 +33,26 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+# Use devise(registration and login-system)
+gem 'devise'
+
+# bootstrap install
+gem 'bootstrap', '~> 4.1.3'
+gem 'jquery-rails'
+
+# font-awesome-sass install
+gem "font-awesome-sass"
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
+  # to fix the bug easier
+  gem 'better_errors'
+  gem 'binding_of_caller'
+  gem 'pry-byebug'
 end
 
 group :development do
